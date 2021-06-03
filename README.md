@@ -1,2 +1,0 @@
-# HUAQI
-storage resource provider
